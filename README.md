@@ -10,6 +10,7 @@
 | Lean repository following LADR by Axler, uncertain correctness/completeness | https://github.com/ssomayyajula/linear/blob/master/vector_space.lean|
 | List of missing areas in MathLib - note that vector calculus is entirely missing | https://leanprover-community.github.io/undergrad_todo.html |
 | Xena project - collaboration from ICL to formalize undergrad math in Lean, potentially useful for how to present Lean results to a general audience | https://xenaproject.wordpress.com/2019/02/11/lean-in-latex/ |
+| Library of explained/informalized MathLib linear algebra proofs | https://www.overleaf.com/read/nvmgccgfhykw#3c063b |
 
 ## Lit review/papers to cite
 
